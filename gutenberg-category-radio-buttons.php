@@ -1,7 +1,7 @@
 <?php
 /*
   Plugin Name: AI Gutenberg Category Radio Buttons
-  Plugin URI: 
+  Plugin URI: https://github.com/webdevs-pro/gutenberg-category-radio-buttons
   Description: This plgin replace default category select checkboxes to radio buttons in Gutenberg editor
   Author: Alex Ischenko
   Author URI: https://web-devs.pro
